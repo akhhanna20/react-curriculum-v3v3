@@ -1,0 +1,27 @@
+{
+  "id": "689bec7c4f949db62a6f20e1",
+  "title": "React Curriculum V3",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "requirements": [
+      "No requirements specified."
+    ],
+    "submissionInstructions": "No submission instructions provided.",
+    "planningResources": []
+  },
+  "createdBy": {
+    "name": "Hanna Akhramchuk",
+    "githubUsername": "akhhanna20"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/react-curriculum-v3",
+  "remoteGithubUrl": "https://github.com/akhhanna20/react-curriculum-v3v3",
+  "createdAt": "2025-08-13T01:38:04.665Z",
+  "updatedAt": "2025-08-13T02:14:27.413Z",
+  "lessonCount": 16
+}
